@@ -1,0 +1,53 @@
+﻿Pathways,Ratio,Groups,P.adj
+"P-body assembly 
+",0.5,Young,0.000454285
+"Maintenance of DNA methylation 
+",0.5,Young,0.00000358
+"P-body assembly 
+",0.5,AMA,0.0199078
+"Maintenance of DNA methylation 
+",0.5,AMA,0.000014
+"Arp2/3 complex-mediated 
+actin nucleation 
+",0.533,Young,0.007902732
+"Negative regulation of endoplasmic
+ reticulum unfolded protein response 
+",0.538,AMA,0.034721829
+"Nuclear-transcribed mRNA 
+catabolic process, 
+nonsense-mediated decay 
+",0.549,Young,0
+"Nuclear-transcribed mRNA 
+catabolic process, 
+nonsense-mediated decay 
+",0.566,AMA,0
+"Protein targeting to ER 
+",0.621,Young,0
+"Protein targeting to ER 
+",0.621,AMA,0
+"Cotranslational protein 
+targeting to membrane 
+",0.649,Young,0
+"SRP-dependent cotranslational 
+protein targeting to membrane 
+",0.656,Young,0
+"Cytoplasmic translation
+",0.656,Young,0
+"Cotranslational protein 
+targeting to membrane 
+",0.66,AMA,0
+"SRP-dependent cotranslational 
+protein targeting to membrane 
+",0.667,AMA,0
+"Cytoplasmic translation
+",0.667,AMA,0
+"Proteasome
+",0.696,Young,0.007641579
+"Negative regulation of endoplasmic
+ reticulum unfolded protein response 
+",,Young,
+"Proteasome
+",,AMA,
+"Arp2/3 complex-mediated 
+actin nucleation 
+",,AMA,
